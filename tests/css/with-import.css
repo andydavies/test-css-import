@@ -1,1 +1,6 @@
+@import 'no-import.css';
 
+body {
+    background-color: orange;
+    color: white
+}

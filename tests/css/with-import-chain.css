@@ -1,1 +1,7 @@
+@import 'with-import.css';
+
+body {
+    background-color: red;
+    color: white
+}
 
